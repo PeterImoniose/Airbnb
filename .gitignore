@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+airbnb_listings(1).csv
+airbnb_reviews(1).csv
